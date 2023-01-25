@@ -1,1 +1,1 @@
-# methods_of_genetic_evaluation_of_animals
+# Methods for the genetic evaluation of animals
